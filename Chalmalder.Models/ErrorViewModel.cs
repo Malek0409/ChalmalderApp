@@ -1,4 +1,4 @@
-namespace ChalmalderApp.Models
+namespace Chalmalder.Models
 {
     public class ErrorViewModel
     {

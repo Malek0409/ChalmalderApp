@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChalmalderApp", "ChalmalderApp\ChalmalderApp.csproj", "{F2BAFBCF-576B-4E27-89BB-6A2413485121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chalmalder.DataAccess", "Chalmalder.DataAccess\Chalmalder.DataAccess.csproj", "{A2E741DA-777E-4843-BDAF-DAF32E06CE33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chalmalder.Models", "Chalmalder.Models\Chalmalder.Models.csproj", "{CD1CD8C2-D11C-4AB8-B47A-A314CABEF0F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chalmalder.Utility", "Chalmalder.Utility\Chalmalder.Utility.csproj", "{31288DE4-BFA6-48CB-B9FE-C137DC7A907C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{F2BAFBCF-576B-4E27-89BB-6A2413485121}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2BAFBCF-576B-4E27-89BB-6A2413485121}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2BAFBCF-576B-4E27-89BB-6A2413485121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E741DA-777E-4843-BDAF-DAF32E06CE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E741DA-777E-4843-BDAF-DAF32E06CE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E741DA-777E-4843-BDAF-DAF32E06CE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E741DA-777E-4843-BDAF-DAF32E06CE33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD1CD8C2-D11C-4AB8-B47A-A314CABEF0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD1CD8C2-D11C-4AB8-B47A-A314CABEF0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD1CD8C2-D11C-4AB8-B47A-A314CABEF0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD1CD8C2-D11C-4AB8-B47A-A314CABEF0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31288DE4-BFA6-48CB-B9FE-C137DC7A907C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31288DE4-BFA6-48CB-B9FE-C137DC7A907C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31288DE4-BFA6-48CB-B9FE-C137DC7A907C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31288DE4-BFA6-48CB-B9FE-C137DC7A907C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
